@@ -1,8 +1,8 @@
 # RecruitCleanAnalysis
 
 ### 分析结果：
- - 地图展现各地区 爬虫相关公司的 聚集度
- - 展现最适宜应聘的公司图
+ - 地图展现各地区 爬虫相关公司的 聚集度，见[country_rank.png](https://github.com/BuleAnt/RecruitCleanAnalysis/blob/master/country_rank.png) 文件
+ - 展现最适宜应聘的公司图，见[plt1.png](https://github.com/BuleAnt/RecruitCleanAnalysis/blob/master/plt1.png)和[plt3.png]()https://github.com/BuleAnt/RecruitCleanAnalysis/blob/master/plt3.png文件
 
 ### 简要说明：
  对智联招聘“爬虫”关键字搜索职位数据做的一个分析，对于爬虫关键字职位搜索数据，见我的[智联招聘爬取数据爬取](https://github.com/BuleAnt/RecruitScrapy)。**
